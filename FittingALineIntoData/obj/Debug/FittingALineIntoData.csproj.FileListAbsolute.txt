@@ -1,0 +1,10 @@
+C:\Users\Tal\source\repos\FittingALineIntoData\FittingALineIntoData\bin\Debug\FittingALineIntoData.exe.config
+C:\Users\Tal\source\repos\FittingALineIntoData\FittingALineIntoData\bin\Debug\FittingALineIntoData.exe
+C:\Users\Tal\source\repos\FittingALineIntoData\FittingALineIntoData\bin\Debug\FittingALineIntoData.pdb
+C:\Users\Tal\source\repos\FittingALineIntoData\FittingALineIntoData\obj\Debug\FittingALineIntoData.csprojAssemblyReference.cache
+C:\Users\Tal\source\repos\FittingALineIntoData\FittingALineIntoData\obj\Debug\FittingALineIntoData.MainForm.resources
+C:\Users\Tal\source\repos\FittingALineIntoData\FittingALineIntoData\obj\Debug\FittingALineIntoData.Properties.Resources.resources
+C:\Users\Tal\source\repos\FittingALineIntoData\FittingALineIntoData\obj\Debug\FittingALineIntoData.csproj.GenerateResource.cache
+C:\Users\Tal\source\repos\FittingALineIntoData\FittingALineIntoData\obj\Debug\FittingALineIntoData.csproj.CoreCompileInputs.cache
+C:\Users\Tal\source\repos\FittingALineIntoData\FittingALineIntoData\obj\Debug\FittingALineIntoData.exe
+C:\Users\Tal\source\repos\FittingALineIntoData\FittingALineIntoData\obj\Debug\FittingALineIntoData.pdb
